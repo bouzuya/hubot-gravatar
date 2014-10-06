@@ -2,6 +2,8 @@
 
 A Hubot script that returns your gravatar
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20141007/20141007000519.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-gravatar.git
